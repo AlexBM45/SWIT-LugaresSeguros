@@ -1,7 +1,7 @@
 # Proyecto: Lugares Seguros
 
-## Programa: Skills for Women in Tech.
-## Modalidad: Plataforma
+### Programa: Skills for Women in Tech.
+### Modalidad: Plataforma
 
 ------
 
@@ -11,6 +11,6 @@ El objetivo es tener un directorio de lugares certificados o considerados seguro
 ------
 ## Tools
 
-    * Django
-    * Django Rest Framework
+* Django
+* Django Rest Framework
 
